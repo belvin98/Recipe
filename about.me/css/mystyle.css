@@ -1,0 +1,33 @@
+body,html {
+    background-color: antiquewhite;
+margin: 0 auto}
+
+#content-wrapper{
+    width:600px;
+    margin:0 auto;
+}
+
+h1,h2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 5px salmon;
+    border-radius: 200px;
+}
+
+ol > li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 700p;
+    margin: 0 auto;
+}
+
+
+    
+ 
+
+
+
+
+
